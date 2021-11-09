@@ -1,0 +1,13 @@
+.board div {
+  border: 0.5px solid #000;
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+}
+
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  width: 30%;
+  margin: 0 auto;
+}
